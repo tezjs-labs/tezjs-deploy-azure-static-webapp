@@ -1,4 +1,4 @@
-# Deploy to Firebase Hosting
+# Deploy to Azure Static Web App
 In this guide, you will learn how to deploy your tezjs site to Azure Static Web App.
 
 ## Deployed Url:
