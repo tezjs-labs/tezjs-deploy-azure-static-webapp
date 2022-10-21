@@ -2,7 +2,7 @@
 In this guide, you will learn how to deploy your tezjs site to Azure Static Web App.
 
 ## Deployed Url:
-https://gentle-bush-08da5cf00.1.azurestaticapps.net/
+https://kind-plant-0bdd6f600.2.azurestaticapps.net/
 
 ## Preparing for deployment:
 Run the following command to create tezjs project:
